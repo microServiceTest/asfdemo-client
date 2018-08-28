@@ -1,5 +1,5 @@
 server:
-  port: 8085  # ${PORT:8080}
+  port: 8087  # ${PORT:8080}
 profile: profile
 logging:
   level:
@@ -19,5 +19,4 @@ spring:
   sleuth:
     sampler:
       percentage: 1.0
-  profiles:
-    active: default
+
