@@ -1,6 +1,6 @@
 server:
   port: 8086  # ${PORT:8080}
-profile: profile
+profile: profile11
 logging:
   level:
     ROOT: INFO
